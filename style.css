@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: #70b6f8;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: courier, arial, helvética;
+  font-size: 35px;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+.juego {
+  width: 414px;
+  margin: 48px auto;
+  padding: 40px;
+  border-radius: 30px;
+  box-shadow: 0 2px 5px rgba(239, 147, 72, 0.1);
+  background-color: #ff7dd8;
+  border: 2px solid #ff35c2;
+  padding: 5px;
+}
+button {
+  padding: 8px 12px;
+  background-color: #4fa8fb;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #95908e; /
+}
+
+#mensaje {
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  margin-top: 20px;
+}
